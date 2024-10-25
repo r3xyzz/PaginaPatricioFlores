@@ -750,6 +750,10 @@ a:focus {
     opacity: 0;
 }
 
+.hidden {
+    display: none !important;
+}
+
 .service .service-item:hover .service-overlay {
     opacity: 1;
 }
