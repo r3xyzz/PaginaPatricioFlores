@@ -1,0 +1,17 @@
+.btn-servicio {
+    display: block;
+    width: 100%;
+    padding: 12px 0;
+    background-color: #ff9900; /* Color personalizado */
+    color: #fff; /* Color de texto blanco */
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 5px; /* Bordes redondeados */
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-servicio:hover {
+    background-color: #cc7a00; /* Color más oscuro al pasar el mouse */
+}
